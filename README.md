@@ -4,12 +4,14 @@
 In this project for a chain of car dealerships, I have created few visualizations to allow us to understand car sales and profits for each dealer.
 
 
-<h1>Software used<h1/>     
- 1. Data Cleaning and analysis - Microsoft Excel
- 2. Data Visualization - Microsoft Excel    
+<h1>Software used </h1>     
+
+ 1. **Data Cleaning and Analysis** - Microsoft Excel
+ 2. **Data Visualization** - Microsoft Excel    
 
      
-<h1> Dataset used <h1/>     
+ <h1> Dataset used </h1>     
+ 
 1. **Input File**: CarSalesByModelStart.xlsx
 2. **Output File**: CarSalesByModelEnd.xlsx
 
